@@ -1,0 +1,5 @@
+{
+    "name": "ginny-weasley",
+    "packagePath": ".",
+    "tagTemplate": "{{new-version}}"
+}
