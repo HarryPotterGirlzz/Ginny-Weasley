@@ -8,10 +8,6 @@ All notable changes to this project will be documented in this file.
 
 - Install rimraf as dev dependency ([bb482c2](https://github.com/HarryPotterGirlzz/Ginny-Weasley/commit/bb482c280b73c622f1b2b15d7671ab407935c4f3))
 
-## Ci
-
-- Run ESLint instead of Super Linter ([4eadeab](https://github.com/HarryPotterGirlzz/Ginny-Weasley/commit/4eadeabb5668d7642235491c13aeb202c15e2aad))
-
 # [1.0.0](https://github.com/HarryPotterGirlzz/Ginny-Weasley/tree/1.0.0) - (2022-08-16)
 
 ## Features
